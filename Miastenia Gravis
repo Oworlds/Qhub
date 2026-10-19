@@ -1,0 +1,17 @@
+[
+  {
+    "id": "miastenia-gravis",
+    "title": "Míastenia Gravis",
+    "fileUrl": "https://raw.githubusercontent.com/Oworlds/Qhub/main/qbanks/Miastenia-Gravis.json",
+    "questionCount": 5,
+    "author": "Oscar",
+    "version": "1.0",
+    "subjects": [
+      "Neurología Clínica y Fisiología",
+      "Patología y Oncología",
+      "Farmacología Neuromuscular",
+      "Inmunología y Diagnóstico Diferencial",
+      "Diagnóstico Diferencial Neuromuscular"
+    ]
+  }
+]
