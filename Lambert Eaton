@@ -1,0 +1,17 @@
+[
+  {
+    "id": "lambert-eaton",
+    "title": "Lambert Eaton",
+    "fileUrl": "https://raw.githubusercontent.com/Oworlds/Qhub/main/qbanks/Lambert-Eaton.json",
+    "questionCount": 5,
+    "author": "Oscar",
+    "version": "1.0",
+    "subjects": [
+      "Fisiología y Neurología",
+      "Oncología y Neumología",
+      "Diagnóstico y Neurofisiología",
+      "Farmacología y Manejo Clínico",
+      "Diagnóstico Diferencial Clínico"
+    ]
+  }
+]
